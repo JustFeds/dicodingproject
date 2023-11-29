@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 streamlit
 pandas
 numpy
@@ -5,3 +6,12 @@ matplotlib
 seaborn
 numpy
 babel
+=======
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+numpy
+babel
+>>>>>>> Stashed changes
