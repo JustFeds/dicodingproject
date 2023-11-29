@@ -1,6 +1,6 @@
 ### SubmissonDicodingProject
 This repo is dedicated to Dicoding final project 
-### [Sales Performance Dashboard] (https://dicoding-project1.streamlit.app/)
+### [Sales Performance Dashboard](https://dicoding-project1.streamlit.app/)
 
 ### Setup Environment
 ```
@@ -13,4 +13,4 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ```
 streamlit run dashboard/dashboard.py
 ```
-### [Run Dashboard App Sales Performance] (https://dicoding-project1.streamlit.app/)
+### [Run Dashboard App Sales Performance](https://dicoding-project1.streamlit.app/)
